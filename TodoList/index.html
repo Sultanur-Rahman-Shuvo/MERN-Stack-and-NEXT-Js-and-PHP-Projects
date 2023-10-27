@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TodoList</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="heading">
+      <h1>Todo List</h1>
+    </div>
+    <div class="container">
+      <div class="mb-3 mt-5">
+        <label for="title" class="form-label">Todo Title</label>
+        <input
+          type="text"
+          class="form-control"
+          id="title"
+          placeholder="Enter Title"
+        />
+      </div>
+      <div class="mb-4">
+        <label for="description" class="form-label">Todo Description</label>
+        <input
+          type="text"
+          class="form-control"
+          id="description"
+          placeholder="Enter Description"
+        />
+      </div>
+      <div class="button">
+        <button id="submit" type="button" class="btn btn-success me-2">
+          Submit
+        </button>
+        <button id="deletebutton" type="button" class="btn btn-danger">
+          Delete
+        </button>
+      </div>
+      <div id="todo"></div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
