@@ -1,0 +1,21 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+  background: #887f7d !important;
+}
+
+#time{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:aquamarine
+}
+
+.text-center{
+    position: relative;
+    height: 12vh;
+    width: 60vw;
+    left: 135px;
+    top: 6px;
+}
