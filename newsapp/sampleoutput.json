@@ -1,0 +1,136 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "David Hunter: British husband who killed wife in Cyprus released",
+      "description": "David Hunter \"can't describe\" how freedom feels after killing wife Janice in an assisted suicide.",
+      "url": "http://www.bbc.co.uk/news/uk-england-tyne-66322478",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A54F/production/_130591324_101a765d2d7530f86c93c703904c38f0e83fb58f.jpg",
+      "publishedAt": "2023-07-31T15:07:27.8262842Z",
+      "content": "Media caption, Watch: David Hunter speaking after his release\r\nA British man freed by a Cypriot court after being sentenced for killing his seriously ill wife has said he could not find words to desc… [+5701 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Jack Smith: The special counsel investigating Donald Trump",
+      "description": "Jack Smith was a top war crimes prosecutor at The Hague before he began investigating Donald Trump.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-66341309",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/074B/production/_130576810_gettyimages-1229550569.jpg",
+      "publishedAt": "2023-07-31T15:07:25.1394542Z",
+      "content": "He is currently overseeing two separate criminal investigations into a former American president, but Jack Smith is no stranger to bringing high-stakes cases.\r\nOver the past two decades, Mr Smith, 54… [+5553 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Haiti: US nurse and child kidnapped, says charity",
+      "description": "The US State Department is aware of reports and is in \"regular contact\" with Haitian authorities.",
+      "url": "http://www.bbc.co.uk/news/world-latin-america-66351887",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/143A0/production/_130584828_2023-07-28t025336z_2045038297_rc2ia2a9bbiw_rtrmadp_3_usa-haiti.jpg",
+      "publishedAt": "2023-07-31T14:37:28.7019455Z",
+      "content": "An American nurse and her child have been kidnapped in Haiti, according to a Christian aid charity she worked for.\r\nAlix Dorsainvil was working in a community ministry near Port-au-Prince when she wa… [+2073 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Afghanistan: Taliban burn ‘immoral’ musical instruments",
+      "description": "The founder of Afghanistan’s National Institute of Music likened the move to \"cultural genocide\".",
+      "url": "http://www.bbc.co.uk/news/world-asia-66357611",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14455/production/_130592038_4d150267a9b617f052d708e204a137b75c63ac5d.jpg",
+      "publishedAt": "2023-07-31T14:37:21.9055508Z",
+      "content": "The Taliban have burned musical instruments in Afghanistan, claiming music \"causes moral corruption\".\r\nThousands of dollars worth of musical equipment went up in smoke on a bonfire on Saturday in wes… [+1757 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Cardi B throws microphone into crowd at gig after being hit by drink",
+      "description": "The rapper was reacting to having a drink hit her on stage while she was performing.",
+      "url": "http://www.bbc.co.uk/news/entertainment-arts-66358971",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14A27/production/_130591548_0dbd7adcbb91577304f8d08456c02629c112c12c-1.jpg",
+      "publishedAt": "2023-07-31T14:07:28.6073114Z",
+      "content": "Cardi B became the latest star to be hit by an object from the crowd during a concert, when an audience member threw their drink at the rapper.\r\nThe 30-year-old reacted by throwing her microphone at … [+2422 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Pakistan explosion: Eyewitness describes doomsday scenes",
+      "description": "The death toll is expected to rise as police look at the possibility of a suicide attack.",
+      "url": "http://www.bbc.co.uk/news/world-asia-66321749",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/47E9/production/_130590481_aa28fdf93e11fbd3d1411ae103b7208eb73e111c.jpg",
+      "publishedAt": "2023-07-31T09:37:23.0460226Z",
+      "content": "\"Doomsday scenes\" unfolded in Pakistan after a suicide bomber targeted a political rally, killing at least 45 people, an eyewitness has told the BBC.\r\nPeople screamed for help as rescuers rushed to t… [+2816 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "The Texas town caught in the middle of America's border battle",
+      "description": "Eagle Pass is the front line in a showdown over migrants between Texas and the federal government.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-66333303",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/CF7D/production/_130571135_magaliurbina1.jpg",
+      "publishedAt": "2023-07-31T08:37:20.9678361Z",
+      "content": "Under the brutal heat of the midday South Texas sun, pecan farmer Magali Urbina found herself dealing with a sadly familiar scene: a family of dehydrated, injured migrants on her property.\r\nIn front … [+6902 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Ukraine war: 'People call us the Ghosts of Bakhmut'",
+      "description": "The BBC is given exclusive access to a team of elite snipers conducting night raids near Bakhmut.",
+      "url": "http://www.bbc.co.uk/news/world-europe-66354363",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D8C0/production/_130588455_ghost.jpg",
+      "publishedAt": "2023-07-31T05:22:16.9518248Z",
+      "content": "Ukrainian forces are trying to retake the city of Bakhmut in the country's east. The BBC was given exclusive access to a team of elite snipers, referred to as \"the Ghosts of Bakhmut\", who are conduct… [+5353 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Indigenous women and police clash in Peru protest",
+      "description": "At least 60 people have died in anti-government protests since December last year.",
+      "url": "http://www.bbc.co.uk/news/world-latin-america-66357011",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0B52/production/_130589820_p0g3vhcc.jpg",
+      "publishedAt": "2023-07-31T02:07:13.1081057Z",
+      "content": "Indigenous women and police clashed in Lima, Peru on Saturday in the latest in a long wave of protests calling for the resignation of President Dina Boluarte.\r\nDemonstrators blame the government for … [+286 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC Sport",
+      "title": "US junior racer White, 17, dies in training accident",
+      "description": "United States junior rider Magnus White, 17, dies after being hit by a car in a training accident in Colorado.",
+      "url": "http://www.bbc.co.uk/sport/cycling/66356845",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/12EBA/production/_130589477_gettyimages-1367699878.jpg",
+      "publishedAt": "2023-07-30T23:07:18.390015Z",
+      "content": "Magnus White (right) began racing at a national level aged 10\r\nAmerican junior rider Magnus White has died after being hit by a car while training in his Colorado home town.\r\nThe 17-year-old, a US ju… [+703 chars]"
+    }
+  ]
+}
