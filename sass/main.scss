@@ -1,0 +1,37 @@
+@import 'header';
+$primaryColor : green;
+$secondaryColor: blue;
+
+h1{
+    color: $primaryColor;
+}
+
+h2{
+    color: $secondaryColor;
+}
+
+ul{
+    li{
+        list-style-type: none;
+    }
+    a{
+        text-decoration: none;
+        color: black;
+    }
+}
+
+@mixin headingOne{
+    color: $primaryColor;
+}
+
+.hello{
+    @include headingOne
+}
+
+@mixin hello($color){
+    color: $color;
+}
+
+.hello2{
+    @include hello(red)
+}
