@@ -1,0 +1,34 @@
+.authentication{
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    background-image: url('../resourses/bg.jpg');
+    background-size: 100% 100%;
+}
+.authentication .ant-row{
+    width: 100%;
+    justify-content: center !important;
+}
+
+.authentication form{
+    background-color: #BDC581;
+    color: black;
+    padding: 20px;
+    border-radius: 12px;
+}
+.authentication form h1{
+    display: flex;
+    justify-content: center;
+    font-size: 35px;
+}
+.loginbtn{
+    background: #F8EFBA!important;
+    color: black!important;
+}
+.link{
+    text-decoration: none;
+    color: #2C3A47!important;
+}
+.link:hover{
+    color: #F8EFBA!important;
+}
