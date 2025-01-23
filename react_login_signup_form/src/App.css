@@ -1,0 +1,144 @@
+/* General container styling */
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f4f4f4;
+  font-family: 'Arial', sans-serif;
+}
+
+/* Form container */
+.form-container {
+  background: #ffffff;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  width: 400px;
+}
+
+/* Toggle buttons */
+.form-toggle {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
+
+.form-toggle button {
+  flex: 1;
+  padding: 0.5rem 1rem;
+  background: #e0e0e0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  color: #333;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.form-toggle button.active {
+  background: #007bff;
+  color: #fff;
+}
+
+.form-toggle button:not(:last-child) {
+  margin-right: 0.5rem;
+}
+
+.form-toggle button:hover {
+  background: #0056b3;
+  color: #fff;
+}
+
+/* Form content */
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.form h2 {
+  margin: 0;
+  font-size: 1.5rem;
+  color: #333;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+/* Input fields */
+.form input {
+  padding: 0.75rem;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  outline: none;
+  transition: border 0.3s;
+}
+
+.form input:focus {
+  border-color: #007bff;
+}
+
+/* Forgot password link */
+.form a {
+  font-size: 0.9rem;
+  color: #007bff;
+  text-decoration: none;
+  align-self: flex-end;
+}
+
+.form a:hover {
+  text-decoration: underline;
+}
+
+/* Buttons */
+.form button {
+  padding: 0.75rem;
+  font-size: 1rem;
+  color: #fff;
+  background: #007bff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.form button:hover {
+  background: #0056b3;
+}
+
+/* Link button styling */
+.link-button {
+  background: none;
+  border: none;
+  color: #007bff;
+  cursor: pointer;
+  font-size: 0.9rem;
+  text-decoration: underline;
+  padding: 0;
+}
+
+.link-button:hover {
+  color: #0056b3;
+}
+
+/* Responsive design */
+@media (max-width: 480px) {
+  .form-container {
+      width: 90%;
+      padding: 1.5rem;
+  }
+
+  .form-toggle button {
+      font-size: 0.9rem;
+  }
+
+  .form h2 {
+      font-size: 1.25rem;
+  }
+
+  .form input,
+  .form button {
+      font-size: 0.9rem;
+  }
+}
