@@ -1,0 +1,91 @@
+/* Global Styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+/* Container */
+div {
+  max-width: 500px;
+  margin: 30px auto;
+  background: #fff;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  overflow: hidden;
+  padding: 15px;
+}
+
+/* Question Heading */
+h2 {
+  font-size: 1.2rem;
+  color: #444;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+/* Options List */
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  background: #f4f4f4;
+  padding: 8px 10px;
+  margin: 5px 0;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+li:hover {
+  background-color: #eaeaea;
+}
+
+li.selected {
+  background-color: #c8e6c9;
+  color: #2e7d32;
+  font-weight: bold;
+  border: 1px solid #2e7d32;
+}
+
+/* Buttons */
+button {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  font-size: 0.9rem;
+  color: #fff;
+  background-color: #007bff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 15px;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+button.button-disable {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+button.button-disable:hover {
+  background-color: #ccc;
+}
+
+/* Final Score */
+div:last-child {
+  text-align: center;
+  font-size: 1rem;
+  font-weight: bold;
+  padding: 15px;
+}
